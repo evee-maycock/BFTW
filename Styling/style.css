@@ -119,22 +119,13 @@
 }
 
   
-.nav-class{
+.nav_class{
 color: white;
 font-size: large;
 }
 
-.featured-image{
+.featured_image{
   height: 25vh;
   justify-content: center;
   align-items: center;
-}
-
-.footer-div{
-  background-color: black;
-  height: 50vh;
-}
-
-.featured-image{
-
 }
